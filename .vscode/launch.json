@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LifeApplication<life>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.aplus.life.LifeApplication",
+            "projectName": "life",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
